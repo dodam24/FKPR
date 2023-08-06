@@ -4,6 +4,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" width="5%">
   <img src="https://icon-library.com/images/ajax-icon/ajax-icon-7.jpg" width="5%">&nbsp;
   <img src="https://blog.kakaocdn.net/dn/bwLdHi/btqAIEhUJXu/ZJYz3SlI9zCZCf6wmKYlBK/img.png" width="5%">
-  &nbsp; 
+  <br><br>
   <a> JavaScript 기본 문법, ES6, JSON, AJAX, jQuery 등을 학습하고 실습 코드를 작성하는 리포지토리 </a>
 </div>
